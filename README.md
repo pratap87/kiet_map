@@ -10,3 +10,6 @@ npm i
 
 to run the server
 npm run start
+
+for preview visit
+https://lucid-elion-a527ab.netlify.app/
